@@ -16,3 +16,8 @@ $$
   {\huge \oint}_{\mathbb{L}}^{} \mathbf{B} \cdot \mathrm{d}l=\mu_0I+ \mu_0 \varepsilon_0\cfrac{\mathrm{d}\Phi _{\mathbf{E}}}{\mathrm{d}t }   
 \end{array} 
 $$
+
+$$
+%此公式需要在【设置】中开启mhchem扩展支持 具体用法请参考【帮助】2.11.2 
+\ce{Zn^2+  <=>[+ 2OH-][+ 2H+]  $\underset{\text{amphoteres Hydroxid}}{\ce{Zn(OH)2 v}}$  <=>[+ 2OH-][+ 2H+]  $\underset{\text{Hydroxozikat}}{\ce{[Zn(OH)4]^2-}}$} 
+$$
